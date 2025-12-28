@@ -91,11 +91,11 @@ HAVING filters vehicles with more than 2 bookings.
  Conclusion :
 This project demonstrates how real-world booking systems use SQL queries to retrieve, filter, and analyze data efficiently.
 
-GitHub Repo: 
+GitHub Repo: https://github.com/tonmoy-free/Vehicle-Rental-System---Database-Design-SQL-Queries
 
 ERD Link: https://drawsql.app/teams/mdtonmoy-khan/diagrams/vehicle-rental-system
 
-Viva Video Link: 
+Viva Video Link: https://drive.google.com/file/d/1s82GtGtpvQbvzSmWDEEOeytyHPNy7C_T/view?usp=sharing
 
 
 
